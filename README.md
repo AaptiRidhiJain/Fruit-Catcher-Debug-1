@@ -1,2 +1,1 @@
-# Fruit-Catcher-Debug-1
-Catch the FRUITSSSSSSSSSSS!!!! @Aapti Ridhi Jain
+# C39-Debug-Part-1
